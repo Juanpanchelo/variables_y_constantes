@@ -3,22 +3,23 @@ Ejercicios de Javascript donde se trabajaran variables int y const, metodo promp
 
 
 ## Ejercicio 1
-
+## Imprimir nombre
 
 
 
 ## Ejercicio 2
-
+## Concatenacion entre una variable y un texto
 
 
 
 ## Ejercicio 3
-
-
-
-## Ejercicio 4
-
-
+## Suma simple
 
 
 ## Ejercicio 4
+## Calcular edad de una persona
+
+
+
+## Ejercicio 5
+## Calculo de indice de masa corporal
